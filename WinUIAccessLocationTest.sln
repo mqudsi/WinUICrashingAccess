@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.128
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "WinUIAccessLocationTest (Package)", "WinUIAccessLocationTest\WinUIAccessLocationTest (Package)\WinUIAccessLocationTest (Package).wapproj", "{DD483DCD-8F8E-4872-AFB0-1389899054AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUIAccessLocationTest", "WinUIAccessLocationTest\WinUIAccessLocationTest\WinUIAccessLocationTest.csproj", "{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Debug|x64.ActiveCfg = Debug|x64
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Debug|x64.Build.0 = Debug|x64
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Debug|x64.Deploy.0 = Debug|x64
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Debug|x86.ActiveCfg = Debug|x86
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Debug|x86.Build.0 = Debug|x86
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Debug|x86.Deploy.0 = Debug|x86
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Release|Any CPU.ActiveCfg = Release|x86
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Release|x64.ActiveCfg = Release|x64
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Release|x64.Build.0 = Release|x64
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Release|x64.Deploy.0 = Release|x64
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Release|x86.ActiveCfg = Release|x86
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Release|x86.Build.0 = Release|x86
+		{DD483DCD-8F8E-4872-AFB0-1389899054AF}.Release|x86.Deploy.0 = Release|x86
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Debug|x64.ActiveCfg = Debug|x64
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Debug|x64.Build.0 = Debug|x64
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Debug|x86.ActiveCfg = Debug|x86
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Debug|x86.Build.0 = Debug|x86
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Release|x64.ActiveCfg = Release|x64
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Release|x64.Build.0 = Release|x64
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Release|x86.ActiveCfg = Release|x86
+		{F95DD8B4-07A8-4F6E-8964-73CCB48E2D95}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA62E741-9BDB-47AF-8767-D34951A3223C}
+	EndGlobalSection
+EndGlobal
